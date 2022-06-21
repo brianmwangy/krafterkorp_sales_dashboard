@@ -1,0 +1,13 @@
+name: krafterkorp_sales_dashboard
+title: krafterkorp_sales_dashboard
+username:
+account: brianmwangy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6525962
+bundleId: 6028582
+url: https://brianmwangy.shinyapps.io/krafterkorp_sales_dashboard/
+when: 1655833620.63654
+lastSyncTime: 1655833620.63654
+asMultiple: FALSE
+asStatic: FALSE
