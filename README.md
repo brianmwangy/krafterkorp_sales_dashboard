@@ -2,6 +2,8 @@
 This dashboard allows cutomer to gain insights into Krafterkorp's current operations
 
 The sales dashboard is hosted here: [Krafterkorp Sales Dashboard](https://brianmwangy.shinyapps.io/krafterkorp_sales_dashboard/)
+              ![Dashboard image](https://github.com/brianmwangy/krafterkorp_sales_dashboard/blob/main/www/dashboard_image.PNG)
+              ![Dashboard image](https://github.com/brianmwangy/krafterkorp_sales_dashboard/blob/main/www/dashboard_image2.PNG)
 
 # App Structure
 
